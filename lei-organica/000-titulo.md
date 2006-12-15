@@ -1,0 +1,1 @@
+# Os representantes do povo do Município de Fortaleza, reunidos em Assembleia Municipal Revisora, buscando a realização do bem-estar comum e as aspirações sociais, econômicas, culturais e históricas, invocando a proteção de Deus, adotam e promulgam a presente Lei Orgânica.
