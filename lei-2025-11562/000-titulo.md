@@ -1,0 +1,2 @@
+# LEI Nº 11.562, DE 11 DE SETEMBRO DE 2025 Desafeta parte da área de praça localizada na confluência da Rua Amâncio Valente com a Avenida Pedro Lazar, no Loteamento Sítio Carrapicho, no Bairro Cambeba, afeta como área institucional, autoriza o Chefe do Poder Executivo municipal a conceder o uso desta à Mitra Arquidiocesana de Fortaleza e dá outras providências.
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
