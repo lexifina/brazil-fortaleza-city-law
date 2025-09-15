@@ -1,0 +1,2 @@
+# LEI Nº 11.564, DE 12 DE SETEMBRO DE 2025 Dispõe sobre a reserva de vagas de trabalho, em contratos de execução indireta de serviços sob regime de dedicação exclusiva de mão de obra ou de prestação de serviços não especializados, celebrados pelo Município de Fortaleza para pessoas cadastradas no CadÚnico via Centro Pop Fortaleza e dá outras providências.
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
