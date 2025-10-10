@@ -1,0 +1,2 @@
+# LEI Nº 11.584, DE 10 DE OUTUBRO DE 2025 Dispõe sobre a obrigatoriedade de permanência e acesso do (a) fisioterapeuta nas maternidades, nos hospitais e nas instituições congêneres quando contratados (as) pela própria paciente, durante todo o trabalho de pré-parto, parto e pós-parto imediato, na forma que menciona.
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
