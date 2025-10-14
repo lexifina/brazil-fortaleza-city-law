@@ -1,0 +1,2 @@
+# LEI Nº 11.587, DE 14 DE OUTUBRO DE 2025 Considera de utilidade pública a Associação Instituto Povos.
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
