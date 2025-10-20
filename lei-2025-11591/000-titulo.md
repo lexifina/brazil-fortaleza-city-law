@@ -1,0 +1,2 @@
+# LEI Nº 11.591, DE 20 DE OUTUBRO DE 2025 Dispõe sobre o pagamento de incentivo adicional (cota única) do componente de qualidade oriundo da Portaria GM/MS n.º 3.493, de 10 de abril de 2024, aos profissionais de eSF, eAP, eSB e E-multi da Atenção Primária à Saúde (APS), conforme Nota Informativa n.º 4/2025- CGESCO/DESCO/SAPS/MS, no âmbito do Sistema Único de Saúde (SUS), no Município de Fortaleza, e dá outras providências.
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
