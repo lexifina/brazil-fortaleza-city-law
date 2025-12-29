@@ -1,0 +1,2 @@
+# LEI Nº 11.616, DE 29 DE DEZEMBRO DE 2025 Dispõe sobre a concessão de incentivo por parte do Poder Executivo Municipal aos servidores públicos municipais das categorias de médicos, enfermeiros, técnicos de enfermagem e motoristas socorristas, assim como aos ocupantes de cargos de provimento em comissão que desempenhem especificamente a função de coordenação operacional, durante o evento do Réveillon de Fortaleza 2025/2026, e dá outras providências.
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
