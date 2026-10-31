@@ -1,0 +1,175 @@
+{
+ "country": "BR-CE-FORTALEZA",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Fortaleza",
+   "title": "Lei Orgânica do Município de Fortaleza",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/5257",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 328,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/0,2006-12-15,2008-11-05:roFZT8iNHt5exoOClY0_E9L70nE/",
+     "sha256": "ede88afba2a945f33d60a0a2b23c663900bc4fef1a03b1c39356465c20a8efac"
+    },
+    {
+     "from": "2008-11-06",
+     "units": 328,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/77,2008-11-06,2008-12-10:Igi8Z5lhwfviW5VFYtn5ac18jGc/",
+     "sha256": "342ecf4d3474dcd70a61bdc725fbe76eab843e8cc01ea1237f7fd1f1ab14cc87"
+    },
+    {
+     "from": "2008-12-11",
+     "units": 328,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/78,2008-12-11,2009-07-06:t4lgeNJBXFga6D-mv5BZW1oWReo/",
+     "sha256": "23e42b2e0b3f0233cc988b5a162ec7db549b103991c11f0785dc802e9b082d6d"
+    },
+    {
+     "from": "2009-07-07",
+     "units": 329,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/107,2009-07-07,2009-10-14:vD_Cop7EilAMC-Iif13DCXtuYJE/",
+     "sha256": "c7a19a6746c38d5125007f05168eabd8d9517a2158a0a9ea90dbbff842da8d66"
+    },
+    {
+     "from": "2009-10-15",
+     "units": 329,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/113,2009-10-15,2010-10-26:alw8g1qpTNQqnS2RCBNoCegluqI/",
+     "sha256": "716f29dbbbe79b468aa82eb655f33a8777e0d39d6c299e7fa02972d9caa625d1"
+    },
+    {
+     "from": "2010-10-27",
+     "units": 329,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/114,2010-10-27,2011-07-05:snGTF79CJx6YenV4SQjEyJPOclc/",
+     "sha256": "2a2a29b609848fe100b021a3b372be65971845922f6635a46d0c97252d43025a"
+    },
+    {
+     "from": "2011-07-06",
+     "units": 329,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/118,2011-07-06,2011-09-21:zc6alt7fRxE8FFAzTRyEIS8h-Sw/",
+     "sha256": "e603e71d271d15befec3d1592ea8a6265fe6a48fd104d1aa3c97f0289cbfca1b"
+    },
+    {
+     "from": "2011-09-22",
+     "units": 329,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/119,2011-09-22,2012-05-30:Id7TT7KHdoweKuBlaCa7EofI_0E/",
+     "sha256": "4718129f911095a68186acab814f5ee4465ccc612ea41616bba732c72a2d4749"
+    },
+    {
+     "from": "2012-05-31",
+     "units": 330,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/120,2012-05-31,2013-04-23:iPBWf9LkZvAhWESTNUrrO7ChC9Q/",
+     "sha256": "1515def868191e4de8de6c8c0c5aab6a89afc2e24c4a380f914a144cdf512160"
+    },
+    {
+     "from": "2012-05-31",
+     "units": 330,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/121,2012-05-31,2013-04-23:wxEWsDKgkAjkVVsowjbdYZTsorY/",
+     "sha256": "10ab3053257bca132225dc821a7ee2673847827bf3ca3dfb7d5e6e1b4a43dfdc"
+    },
+    {
+     "from": "2013-04-24",
+     "units": 330,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/122,2013-04-24,2013-11-10:D0mZP9h_obP2L9mwFRtFcuslLl0/",
+     "sha256": "a3e52b613265e5264c0f8197e8e99747a0164c5bc8141a6ac66a43cda3a05bb7"
+    },
+    {
+     "from": "2013-11-11",
+     "units": 330,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/123,2013-11-11,2014-04-15:zdVZ07_nNjMCk_mV9PxhPy9kJN8/",
+     "sha256": "0d9ee7f3901b3cc82eaf4250d65f968eb970b3d04766e327593c517a3f057745"
+    },
+    {
+     "from": "2014-04-16",
+     "units": 330,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/124,2014-04-16,2014-12-08:LzIQ9-t_80gMiVEQy7JWbqwGMeA/",
+     "sha256": "659787190ea19528622ccb7c92366bfae5ee38a3d64bd13ae1f52df7f32edfb3"
+    },
+    {
+     "from": "2014-12-09",
+     "units": 330,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/125,2014-12-09,2017-02-20:LxnOxMwoZJ07d60-uQluKoU6tsM/",
+     "sha256": "c0e1a06f32060636fc6f6410228aabcce0f022539039b3247f0ef12edac053be"
+    },
+    {
+     "from": "2017-02-21",
+     "units": 330,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/117,2017-02-21,2017-05-30:3DvUy1hw4e5FJ45o0PRsyCOxP_I/",
+     "sha256": "f0d1c5289e41636a57985954168c4ec7da79e41bf653dd2ed88794d19f63ef05"
+    },
+    {
+     "from": "2017-05-31",
+     "units": 330,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/126,2017-05-31,2018-05-07:EChValH52xoE_afn099qXEAUXeI/",
+     "sha256": "41fc25a7ff7c33c875c08351dd429694570382439efa1bb98ad6348790e06c3f"
+    },
+    {
+     "from": "2018-05-08",
+     "units": 330,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/127,2018-05-08,2018-12-10:2sIIDSVf6YvRokKwwGtiSZV-J7M/",
+     "sha256": "1c8334bdddbe2d450d2bf57fa31789c298889c5cb6b1f34278514c1d624a7961"
+    },
+    {
+     "from": "2018-12-11",
+     "units": 330,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/2263,2018-12-11,2020-12-15:DKVMlH30YMlozhcNTD5zeOETsdU/",
+     "sha256": "305496ddbf0607b304567272c6ca9dce1e42fa8f80d5bf5a99c038d27f0fb338"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 333,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/3683,2020-12-16,2021-03-03:VzAsVYR5oPa04UwmPv968fG2Cds/",
+     "sha256": "328d6b342ef111cb59c89176b7183044de010604b2cbff4c3e994101e28657b9"
+    },
+    {
+     "from": "2021-03-04",
+     "units": 333,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/3717,2021-03-04,2021-03-17:uH9BoeKGW5MlQNLGhbwbkJLISzg/",
+     "sha256": "1de0a08175e0780c88a4c073b51343914cb07c506a617ccfbfbd8219a00492b4"
+    },
+    {
+     "from": "2021-03-18",
+     "units": 336,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/3731,2021-03-18,2021-08-26:tNydCK8fLPspAXN0UyKu9IuHroY/",
+     "sha256": "0ef86a7333c5c4484a6cbae4d941ad294ea495120ee842d0543328457c31a911"
+    },
+    {
+     "from": "2021-08-27",
+     "units": 343,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/0,2021-08-27,2022-06-19:mFbL3Csigmcqi0yzsLSlRuRcGiY/",
+     "sha256": "5ffbfb080ad05dacecc1a9762d5c130f2e7b453b1015829a5bfa73e445ba249e"
+    },
+    {
+     "from": "2021-08-27",
+     "units": 343,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/3775,2021-08-27,2022-06-19:PCT8TsXP62h3cFCOpdfFbh0OhJY/",
+     "sha256": "3624aad2e7e159bbf3d1766f5ce3321400f12a82b700be35ad4e088c180b6ba1"
+    },
+    {
+     "from": "2022-06-20",
+     "units": 343,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/3997,2022-06-20,2024-12-16:dNeKxg7nPdDw-twEsdCAVvqoRoQ/",
+     "sha256": "de7c36d3632bbcdd0c88370babe55e11fcc6b926a8a3533ec5177eddc1e3e021"
+    },
+    {
+     "from": "2024-12-17",
+     "units": 343,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/4498,2024-12-17,2024-12-17:Ar2SclKnQbHeEECckezKldwWVuo/",
+     "sha256": "070d661d8f539dca7a9cebdc0ae0f9e072f370bbbec4879d368e8eedede6020e"
+    },
+    {
+     "from": "2024-12-18",
+     "units": 344,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/ta/44/text/vigencia/4512,2024-12-18,2025-06-29:atZMjIDIm-L7z5EKaZ0_xk2ZthI/",
+     "sha256": "4847c6f31aad80c8e87c01026d3e2f3e6716b3b4ce117cdb209658c7a6e95642"
+    },
+    {
+     "from": "2025-06-30",
+     "units": 344,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/norma/5257",
+     "sha256": "82069be7a9d7a10c3179453815763dcd5b370bc2760a919f04a52e8133a6091c"
+    }
+   ]
+  }
+ ]
+}

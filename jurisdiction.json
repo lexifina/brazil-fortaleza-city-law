@@ -1,0 +1,9 @@
+{
+  "path": "br-ce-fortaleza",
+  "code": "BR-CE-FORTALEZA",
+  "name": "Fortaleza (city)",
+  "level": "municipality",
+  "parent": "br-ce",
+  "repo": "https://github.com/lexifina/brazil-fortaleza-city-law",
+  "build": "built: the Lei Orgânica of Fortaleza with its amendments, from the Câmara Municipal's SAPL"
+}
