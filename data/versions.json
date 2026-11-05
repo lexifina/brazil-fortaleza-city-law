@@ -170,6 +170,720 @@
      "sha256": "82069be7a9d7a10c3179453815763dcd5b370bc2760a919f04a52e8133a6091c"
     }
    ]
+  },
+  {
+   "slug": "lei-2026-11690",
+   "short": "Lei 11690/2026",
+   "title": "Lei nº 11.690, de 16 de setembro de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14506",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14506/11690_plo_0655-25.pdf",
+     "sha256": "09a3a2baffe4f76b5d8c8e0359be6779af3d29edb62218ac9ab94f802ec774b7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11679",
+   "short": "Lei 11679/2026",
+   "title": "Lei nº 11.679, de 23 de julho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14468",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 14,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14468/11679_plo_0383-26.pdf",
+     "sha256": "9d316c4c652d068cef8baee23942bed198207c14d490a8c4afadd37139c7a65a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11678",
+   "short": "Lei 11678/2026",
+   "title": "Lei nº 11.678, de 23 de julho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14467",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14467/11678_plo_0125-25.pdf",
+     "sha256": "0b935cc0e4561d28dc126354a83a375d310396dc37e393eddaf5a6a70ad5f25d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11677",
+   "short": "Lei 11677/2026",
+   "title": "Lei nº 11.677, de 21 de julho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14463",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 11,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14463/11677_plo_0317-25.pdf",
+     "sha256": "c1d5aa1e674014222586f91d0715635fa9504147e6996620c136fb971ec6a7bf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11676",
+   "short": "Lei 11676/2026",
+   "title": "Lei nº 11.676, de 21 de julho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14466",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14466/11676_plo_0026-25.pdf",
+     "sha256": "ebd822cdf46026c9e3ab561854d4b3d717760952b9a89b6415ba8d3182133634"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11675",
+   "short": "Lei 11675/2026",
+   "title": "Lei nº 11.675, de 21 de julho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14465",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14465/11675_plo_0074-25.pdf",
+     "sha256": "073d0c18ca11942f5bfeaf1d21595daa557aeb926e1efcfde4141a8bafd2a6fa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11674",
+   "short": "Lei 11674/2026",
+   "title": "Lei nº 11.674, de 16 de julho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14464",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 10,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14464/11674_plo_0376-25.pdf",
+     "sha256": "bfee0f7f5151557e1fe2aec080ce157132ceb8fe7f761d4c9c6ad0ff3525f62d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11672",
+   "short": "Lei 11672/2026",
+   "title": "Lei nº 11.672, de 10 de julho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14454",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14454/11672_plo_0358-26.pdf",
+     "sha256": "fcc1a6185ae962c44951a7580764692fe8ac02e49d4b41a18c7edd7102926c1b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11671",
+   "short": "Lei 11671/2026",
+   "title": "Lei nº 11.671, de 10 de julho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14452",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 35,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14452/11671_plo_0357-26.pdf",
+     "sha256": "2c0b8b24fc4b2c48fd59eeabc45691eadfdb48b08d232c0f6211b9e5a50ed7ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11670",
+   "short": "Lei 11670/2026",
+   "title": "Lei nº 11.670, de 2 de julho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14449",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14449/11670_plo_0619-25.pdf",
+     "sha256": "bc1c1007f8480cd09d22c217e279140420b9f07722f58714b3c77dcf1ba5b1b5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00466",
+   "short": "LC 466/2026",
+   "title": "Lei Complementar nº 466, de 2 de julho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14448",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14448/466-2026_plc_0020-26.pdf",
+     "sha256": "89664234f570fc6245ca866b4ef9d49cba554ea2de6d5ffcf2c8e3cb16469d88"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00464",
+   "short": "LC 464/2026",
+   "title": "Lei Complementar nº 464, de 26 de junho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14447",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 8,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14447/464-2026_plc_0018-26.pdf",
+     "sha256": "1f9c13bee809c10988f976e9caa34ee7e8df229885838fbdf1caf34f959a26de"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11669",
+   "short": "Lei 11669/2026",
+   "title": "Lei nº 11.669, de 25 de junho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14451",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14451/11669_plo_0377-26.pdf",
+     "sha256": "586f7636842b482820efd835ceed3bc39c1535e338a8167a51be7d089a6ff108"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00463",
+   "short": "LC 463/2026",
+   "title": "Lei Complementar nº 463, de 25 de junho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14446",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 5,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14446/463-2026_plc_0017-26.pdf",
+     "sha256": "27e71d61e51632f2d0fef97b3098eb17aaa2a5c025ff5c09397e936d4a1966f5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11668",
+   "short": "Lei 11668/2026",
+   "title": "Lei nº 11.668, de 22 de junho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14445",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 10,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14445/11668_plo_0319-26.pdf",
+     "sha256": "f29e1cb61ed13b82e5c3bab87fb87c95b54ce51a01f1721967c669dee40913ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11666",
+   "short": "Lei 11666/2026",
+   "title": "Lei nº 11.666, de 3 de junho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14461",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14461/11666_plo_0039-26.pdf",
+     "sha256": "ff3f80c0703ae4c3a7577daf68ea7ea0f34a593c0b4b45f48f2936a5a7acdb1d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11665",
+   "short": "Lei 11665/2026",
+   "title": "Lei nº 11.665, de 3 de junho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14462",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 5,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14462/11665_plo_0127-26.pdf",
+     "sha256": "24e01371d90e0aeecbf8984b00b98c43ca466c24938e3f2cd30cc4bcd46d1a33"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11664",
+   "short": "Lei 11664/2026",
+   "title": "Lei nº 11.664, de 3 de junho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14460",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14460/11664_plo_0105-26.pdf",
+     "sha256": "01f1e43df8f46b76c87a4ff53ccc566a0bcfcf27ff91aee62728d410b921706b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11663",
+   "short": "Lei 11663/2026",
+   "title": "Lei nº 11.663, de 3 de junho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14459",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14459/11663_plo_0705-25.pdf",
+     "sha256": "85f3b79f6cc0db61603ade3b61185e38903b7681df6dde8921365c6b0c68fa59"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11662",
+   "short": "Lei 11662/2026",
+   "title": "Lei nº 11.662, de 3 de junho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14439",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 5,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14439/11662_plo_0696-2025.pdf",
+     "sha256": "90d0faa5e5b9ce2d086977770d7093724f18033b543c9f60d29f604473b93335"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11661",
+   "short": "Lei 11661/2026",
+   "title": "Lei nº 11.661, de 3 de junho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14455",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 4,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14455/11661_plo_0387-23.pdf",
+     "sha256": "a93d29df9861ca4627c74edea3c0978dc89a2fc589253a93ae1b14130ed7b5c3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11660",
+   "short": "Lei 11660/2026",
+   "title": "Lei nº 11.660, de 3 de junho de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14443",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 4,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14443/11660_plo_0562-2025.pdf",
+     "sha256": "2beb3ead8d0378e0c7f162c2173854869571f8cb28f84f1c624f37da80c938fe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11659",
+   "short": "Lei 11659/2026",
+   "title": "Lei nº 11.659, de 29 de maio de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14437",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14437/11.659_plo_0272-26.pdf",
+     "sha256": "72a22f36dec287addcf3e952a0c0fbfc05daafacacddcb730ef2e7823b4f7b1b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00460",
+   "short": "LC 460/2026",
+   "title": "Lei Complementar nº 460, de 26 de maio de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14433",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 12,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14433/460-2026_plc_0008-26.pdf",
+     "sha256": "0d18f7a2ee4c1aa192fbf9d1e37acc947a08103dd7280f9c9d11ef3c41119ace"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11658",
+   "short": "Lei 11658/2026",
+   "title": "Lei nº 11.658, de 20 de maio de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14436",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14436/11.658_plo_0231-26.pdf",
+     "sha256": "b7770d9ed8826eb591d2d1bc3909051b880e121d52608c594d5fea557476aae0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11657",
+   "short": "Lei 11657/2026",
+   "title": "Lei nº 11.657, de 20 de maio de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14435",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14435/11.657_plo_0652-21.pdf",
+     "sha256": "54ac48a4fc2a32c131ce92ecd3a3207c69461d56445901a345cc4e92019bf4ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11656",
+   "short": "Lei 11656/2026",
+   "title": "Lei nº 11.656, de 14 de maio de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14458",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 8,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14458/11656_plo_0226-25.pdf",
+     "sha256": "21464320ad9b73adcc763c43dc6cf8e20de5ede1a6f5f0d203d862bcdb50d0c2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11655",
+   "short": "Lei 11655/2026",
+   "title": "Lei nº 11.655, de 13 de maio de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14422",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14422/11.655_plo_0735-2025.pdf",
+     "sha256": "850dd77058b4f99fd032bf4f80b1be990f4cc73ea90ecf6b7fe916491fcbb8c2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11654",
+   "short": "Lei 11654/2026",
+   "title": "Lei nº 11.654, de 13 de maio de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14421",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14421/11.654_plo_0013-2026.pdf",
+     "sha256": "7fc12454b8835e32c11e7c5b4b6dab1f205abd27e9b4067b8dc2bc1fe55fdd43"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11653",
+   "short": "Lei 11653/2026",
+   "title": "Lei nº 11.653, de 8 de maio de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14420",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14420/11.653_plo_0183-2026.pdf",
+     "sha256": "9cb78628be956eceb00a0570a7c6e59af1eb790d72b068ad55c161dad2553bf2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11652",
+   "short": "Lei 11652/2026",
+   "title": "Lei nº 11.652, de 29 de abril de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14419",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14419/11.652_plo_0195-2026.pdf",
+     "sha256": "4d08ba5492693acc0fefd248e47cb708a089229eed8714e2fea0664fde3e9029"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11651",
+   "short": "Lei 11651/2026",
+   "title": "Lei nº 11.651, de 28 de abril de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14405",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 13,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14405/11651_plo_0184-2026.pdf",
+     "sha256": "9f9565248ddadfc0ff8f5bfd1fefe650cb448557a299a479c7eae6ef93ad4a33"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00459",
+   "short": "LC 459/2026",
+   "title": "Lei Complementar nº 459, de 28 de abril de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14404",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 5,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14404/459-2026_plc_0006-25.pdf",
+     "sha256": "7df6f83495f67eadd81f9740e8e5fb8627fe135b68c88e374107c3ab68c3fd0a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11649",
+   "short": "Lei 11649/2026",
+   "title": "Lei nº 11.649, de 8 de abril de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14390",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 5,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14390/lei_no_11.649_de_08_de_abril_de_2026_-_rfpl_0185-2026.pdf",
+     "sha256": "fa85b26e2528e21031b79f25f0fa28009d23730b5252283fc9e398cc02ee0cf4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11648",
+   "short": "Lei 11648/2026",
+   "title": "Lei nº 11.648, de 8 de abril de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14393",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 8,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14393/11648.pdf",
+     "sha256": "24b549b3e63fb8483afb48cc05c7ed7cb8c59ae03b23a912e6d6b5f785b96ce9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11647",
+   "short": "Lei 11647/2026",
+   "title": "Lei nº 11.647, de 8 de abril de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14402",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14402/11647_plo_0169-2026.pdf",
+     "sha256": "ea5eff1ef6da7ffc7724f6e37a4555f3d1f76c1f32a0e07a3965d197e1fc1d33"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11646",
+   "short": "Lei 11646/2026",
+   "title": "Lei nº 11.646, de 8 de abril de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14397",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14397/lei_11646.pdf",
+     "sha256": "42ae8a2c75db83183f9191609ddde3e137a1348616d3c224abe9074b1c981484"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11645",
+   "short": "Lei 11645/2026",
+   "title": "Lei nº 11.645, de 8 de abril de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14396",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 8,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14396/11645.pdf",
+     "sha256": "561853396dd5a9534e3a3e89a5133bcd7cee40b0dec0b8bbcb03866f80698773"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11644",
+   "short": "Lei 11644/2026",
+   "title": "Lei nº 11.644, de 8 de abril de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14395",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14395/lei_11644.pdf",
+     "sha256": "01d9ec05cad9abfd53257dc8808e134bfb265e79fedaa33a1dc0220526bd12a5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11643",
+   "short": "Lei 11643/2026",
+   "title": "Lei nº 11.643, de 7 de abril de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14392",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 9,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14392/11.643_plo__0101-2026.pdf",
+     "sha256": "8e55cf577369df3e4d762c4f02091fb47cbf7efe52bfa3d2d16185a1918dd381"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11642",
+   "short": "Lei 11642/2026",
+   "title": "Lei nº 11.642, de 7 de abril de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14391",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14391/11642.pdf",
+     "sha256": "40a6d19b2c97ce58147173744509473c2c360d6ece27347b048e1826ed021a3a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11641",
+   "short": "Lei 11641/2026",
+   "title": "Lei nº 11.641, de 30 de março de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14381",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14381/11.641_plo__0190-2024.pdf",
+     "sha256": "68b3f34799ae46d0fb10c5a588eb1bfeb8a5a220d01cfb38275480d18f268748"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11640",
+   "short": "Lei 11640/2026",
+   "title": "Lei nº 11.640, de 30 de março de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14403",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14403/11640_plo_01204-2024.pdf",
+     "sha256": "b2d2e6f2cfa73219c19a4d70b64c2106aa530330a1e4cca471327e81e42e696d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11639",
+   "short": "Lei 11639/2026",
+   "title": "Lei nº 11.639, de 30 de março de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14380",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14380/11.639_plo__0189-2024.pdf",
+     "sha256": "eed93cda63982a669e9fdd9602f3b5ca86700e987bf7d032137d7dba9a52cbee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11638",
+   "short": "Lei 11638/2026",
+   "title": "Lei nº 11.638, de 16 de março de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14379",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 5,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14379/11.638_plo__0086-2026.pdf",
+     "sha256": "706d09087c87487a3baebdc0f635c1e612c4a09874c8fd051d0751627a6cfc23"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11637",
+   "short": "Lei 11637/2026",
+   "title": "Lei nº 11.637, de 16 de março de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14376",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14376/11.637_plo__0085-2026.pdf",
+     "sha256": "7af03ab5e661dd814fcc02483d050f87c9e3e7dd29804d661db951f0489874fe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11636",
+   "short": "Lei 11636/2026",
+   "title": "Lei nº 11.636, de 10 de março de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14374",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 11,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14374/11.636_plo_0049-26.pdf",
+     "sha256": "5b579d8b32785e19b105b9caecd5bdda016d1b9a97d89327b2c8d37926393f14"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11632",
+   "short": "Lei 11632/2026",
+   "title": "Lei nº 11.632, de 11 de fevereiro de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14355",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14355/11632.pdf",
+     "sha256": "3d2c9ab198b7fc0232b861fedaefd00d3ea74915d635964d6c418ea04f561958"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-11620",
+   "short": "Lei 11620/2026",
+   "title": "Lei nº 11.620, de 7 de janeiro de 2026",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14338",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2026/14338/11.620_plo_0288-25.pdf",
+     "sha256": "346c5c1cc06e89b8672c15f4d308a800dcacfa573ad06f15c87c959ca6546959"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11616",
+   "short": "Lei 11616/2025",
+   "title": "Lei nº 11.616, de 29 de dezembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14335",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14335/11.616_plo_0753-25.pdf",
+     "sha256": "f2c3a6e45c0c7784ac177a915f5955b889a3d6ce2e187b1b757168b34bbb3695"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00456",
+   "short": "LC 456/2025",
+   "title": "Lei Complementar nº 456, de 22 de dezembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14334",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 13,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14334/lc_456.pdf",
+     "sha256": "3512b623692533bb85f32dc562e1ff688fd97b479fc8163103b6b02536e461bf"
+    }
+   ]
   }
  ]
 }
