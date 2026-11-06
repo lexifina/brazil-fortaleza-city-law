@@ -1066,6 +1066,580 @@
      "sha256": "05e3199365badb65042cfdbc7b87ee33a04eb354c33da708955dd18eda6da347"
     }
    ]
+  },
+  {
+   "slug": "lei-2025-11581",
+   "short": "Lei 11581/2025",
+   "title": "Lei nº 11.581, de 10 de outubro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14255",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 8,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14255/11.581_plo_0145-25.pdf",
+     "sha256": "259b4cd09a36a997709f20d8e24f88d243e8160a74100cdd3f5df058eddcf2ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11580",
+   "short": "Lei 11580/2025",
+   "title": "Lei nº 11.580, de 10 de outubro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14250",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14250/11.580_plo_0568-2025.pdf",
+     "sha256": "712c196f976f4e2cce204f0e4974ce5ca025f988f0eb14b4b12b25203e4d1ba8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11579",
+   "short": "Lei 11579/2025",
+   "title": "Lei nº 11.579, de 10 de outubro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14248",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14248/11.579_plo__0001-2021.pdf",
+     "sha256": "607ab272cdc3d78d02809ac8a635120ce0c2a2a9debe74f241d0ad07cb710aa5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11578",
+   "short": "Lei 11578/2025",
+   "title": "Lei nº 11.578, de 10 de outubro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14247",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 5,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14247/11.578plo_0603-2025.pdf",
+     "sha256": "d44c415c9b040f8bfed203a15a05bef5a511a975bc0bc3597caa21e5b104c5d1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11576",
+   "short": "Lei 11576/2025",
+   "title": "Lei nº 11.576, de 30 de setembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14246",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 34,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14246/11.576_plo__0601-2025.pdf",
+     "sha256": "01e81ded75cdd950be2ebd13b00c8d32a0c83fd615c82e94df003f453298b588"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11575",
+   "short": "Lei 11575/2025",
+   "title": "Lei nº 11.575, de 29 de setembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14239",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 24,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14239/11.575_plo_0253-24.pdf",
+     "sha256": "94665a9218145dd18bed44e632bcf53e382182269f2d9cbce618c74c94ee1f6e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11574",
+   "short": "Lei 11574/2025",
+   "title": "Lei nº 11.574, de 26 de setembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14238",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 5,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14238/11.574-rfpl_0546-2025.pdf",
+     "sha256": "18b1abf1925793948b62c494edda7f009f792efb8ac93fa8b25f98a11088279b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11573",
+   "short": "Lei 11573/2025",
+   "title": "Lei nº 11.573, de 26 de setembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14236",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14236/11.573_rfpl_0547-2025.pdf",
+     "sha256": "6f6c2e1ee5bd0f2c34d85722b2cbf37594644ff15359ed68311d7c73beeaec51"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00437",
+   "short": "LC 437/2025",
+   "title": "Lei Complementar nº 437, de 26 de setembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14232",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14232/lc_437___plc_0043-25.pdf",
+     "sha256": "49516b695137b175357b7ce90cac246221b53fd76ce3b62e7aee6173195a5b90"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11572",
+   "short": "Lei 11572/2025",
+   "title": "Lei nº 11.572, de 25 de setembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14235",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14235/11.572_plo_0102-25.pdf",
+     "sha256": "e137e707cf02462c4ac6a70fee1c68643d5781152c1594176e62404ee9b648d1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11570",
+   "short": "Lei 11570/2025",
+   "title": "Lei nº 11.570, de 24 de setembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14233",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14233/11.570_plo_0045-25.pdf",
+     "sha256": "226d825356ccbb7fb06cd6c81012759581302789e74ba824b44eb733049a4093"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00436",
+   "short": "LC 436/2025",
+   "title": "Lei Complementar nº 436, de 23 de setembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14259",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 4,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14259/lc_436_plc_0036-25.pdf",
+     "sha256": "c87d0ea6df87fc1d4ce7c9c41d75bea70b40ef91d1a33b16c42485fe1b3c4d67"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11569",
+   "short": "Lei 11569/2025",
+   "title": "Lei nº 11.569, de 22 de setembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14230",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14230/11.569_plo_0545-25.pdf",
+     "sha256": "e20b28b5e574f064eb6009dd7484e57b2810d636324b25eb75e1da5b91fecbd1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11568",
+   "short": "Lei 11568/2025",
+   "title": "Lei nº 11.568, de 22 de setembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14229",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14229/11.568_plo_0525-25.pdf",
+     "sha256": "955544e7fd71a7a7e75559b9478195ade1fbfc3e07735912d17cd942f56cab99"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11566",
+   "short": "Lei 11566/2025",
+   "title": "Lei nº 11.566, de 12 de setembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14219",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14219/11.566_plo_0158-25.pdf",
+     "sha256": "d9a8fc5f1194fbf981c0a6e32ea5413bae57762f8a88f85decc70a6dd8bb15f6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11565",
+   "short": "Lei 11565/2025",
+   "title": "Lei nº 11.565, de 12 de setembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14217",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 5,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14217/11.565_plo_0114-25.pdf",
+     "sha256": "5b67315f9254a6e152e72d3cdfe33fbcd8ec5f68c9769d71ff1c667b1ee7c881"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11564",
+   "short": "Lei 11564/2025",
+   "title": "Lei nº 11.564, de 12 de setembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14216",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 4,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14216/11.564_plo_0520-25.pdf",
+     "sha256": "df45f7db4d296604eff85903300e26a7497a7a0156f0c30d6ac71d4ca9a9a77b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11563",
+   "short": "Lei 11563/2025",
+   "title": "Lei nº 11.563, de 12 de setembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14215",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 5,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14215/11.563_plo_0519-25.pdf",
+     "sha256": "2f1a84ea25551491a7db79d672d615157a10b055a345999b215db9fe3a7f7457"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11562",
+   "short": "Lei 11562/2025",
+   "title": "Lei nº 11.562, de 11 de setembro de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14218",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 5,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14218/11.562_plo_0506-25.pdf",
+     "sha256": "563e06dc2060e7f405a8db6e470b6f5c5e42d4c00e8e0ea877b59768c65f4e9b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11560",
+   "short": "Lei 11560/2025",
+   "title": "Lei nº 11.560, de 27 de agosto de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14210",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 8,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14210/lei_11.560_-_plo_0274-22.pdf",
+     "sha256": "c011fb3860ab0ab658920f8f5f7feeac8681f8be5e66c5ad030861de5b822b3d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11559",
+   "short": "Lei 11559/2025",
+   "title": "Lei nº 11.559, de 27 de agosto de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14211",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14211/lei_11.559_-_plo_0396-25.pdf",
+     "sha256": "551715c0eade72325e6af5dcdf640bfb7a38b4e7b92cd987c358f37498d42bca"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00434",
+   "short": "LC 434/2025",
+   "title": "Lei Complementar nº 434, de 21 de agosto de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14212",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14212/lc_434_plc_0040-25.pdf",
+     "sha256": "925d82f2b39fe5df3ae26f135e8461ca5900af92be9ae057f4d64f89febc508f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11557",
+   "short": "Lei 11557/2025",
+   "title": "Lei nº 11.557, de 21 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14201",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 7,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14201/lei_11.557.pdf",
+     "sha256": "91fbb44b2b7e869a16bf808c8f32258933a0ec142b7cb95908c20a63ae97e564"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11556",
+   "short": "Lei 11556/2025",
+   "title": "Lei nº 11.556, de 18 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14204",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14204/lei_11.556_plo_0182-24.pdf",
+     "sha256": "b80616cb1a0db0d3d8e820637d14d74089c0b226dde654aee0b097e52317d30d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11555",
+   "short": "Lei 11555/2025",
+   "title": "Lei nº 11.555, de 15 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14200",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14200/lei_11.555.pdf",
+     "sha256": "2b57f5cab2619de4961d433099d49c74b1a09e486fff57932278cfaf99645e6b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11554",
+   "short": "Lei 11554/2025",
+   "title": "Lei nº 11.554, de 15 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14196",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 58,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14196/lei_11.554_-__plo_0256-25.pdf",
+     "sha256": "da19a804e79c44c30a81efa11405c0db3bdb51af024892ae9b5e7829b41a0be9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11553",
+   "short": "Lei 11553/2025",
+   "title": "Lei nº 11.553, de 15 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14194",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 9,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14194/11553.pdf",
+     "sha256": "9b80d52cd2da1718daa55b9b4f4a4392de757da6d2c17e8e98bc629bec95102e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00433",
+   "short": "LC 433/2025",
+   "title": "Lei Complementar nº 433, de 15 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14203",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14203/433.pdf",
+     "sha256": "9afa4f756770fe5e92f6ede20ad3fb2ed8e541816494ab702dd5a41895d29e64"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00432",
+   "short": "LC 432/2025",
+   "title": "Lei Complementar nº 432, de 15 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14202",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14202/432.pdf",
+     "sha256": "f1e8d19bbd130bc9d5bd0c29450ecda6447babb33b5476d5ac7e2f3f3cea880d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11552",
+   "short": "Lei 11552/2025",
+   "title": "Lei nº 11.552, de 14 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14197",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 4,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14197/11552.pdf",
+     "sha256": "a861f2913f8a7c42eba7909ef9c6709c5c431ac5e286c2710112ead4dbf38c20"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11551",
+   "short": "Lei 11551/2025",
+   "title": "Lei nº 11.551, de 14 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14199",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 4,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14199/11551.pdf",
+     "sha256": "ce198c9833d4be7b4a2859262bc6bf5e097e88f651d857ee1da3b9165dfbaf5c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11550",
+   "short": "Lei 11550/2025",
+   "title": "Lei nº 11.550, de 14 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14193",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 4,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14193/lei_11.550.pdf",
+     "sha256": "68d8539b5ba113ad4d0993735ec1f7b285ee02c4611b2c1bcdb91034cd62e5a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11549",
+   "short": "Lei 11549/2025",
+   "title": "Lei nº 11.549, de 14 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14198",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14198/lei_11549_plo_0215-24.pdf",
+     "sha256": "bd668a3108360f180dc907a833bfa41a69ac3200ee8c466b3765d574ff3f5729"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11547",
+   "short": "Lei 11547/2025",
+   "title": "Lei nº 11.547, de 7 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14184",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 5,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14184/lei_11547_-_plo_0027-25.pdf",
+     "sha256": "f86789a6a5331f76213d7ae657e01ad936ce2b223a548aad720ed93adaa22f5a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11546",
+   "short": "Lei 11546/2025",
+   "title": "Lei nº 11.546, de 7 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14183",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 5,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14183/lei_11546_-_plo_0456-19.pdf",
+     "sha256": "a1bb612de15e59dfbbf9da163904d75f0eb341ece266bf7230e75153dad27ec0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11545",
+   "short": "Lei 11545/2025",
+   "title": "Lei nº 11.545, de 7 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14182",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14182/lei_11545_-_plo_0099-24.pdf",
+     "sha256": "3241cf9d666be58f05334cadbb8d974d6f009136cf1af216742521a15ff007ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11544",
+   "short": "Lei 11544/2025",
+   "title": "Lei nº 11.544, de 7 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14181",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14181/lei_11544_-_plo_0305-23.pdf",
+     "sha256": "9e5514b301c0fd2594c84352f2a05740753424820111ca7eb9db832d7c912837"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11543",
+   "short": "Lei 11543/2025",
+   "title": "Lei nº 11.543, de 7 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14180",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 10,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14180/lei_11543_-_plo_0424-25.pdf",
+     "sha256": "ab48f55bb7aac1e1e179eb063936d0d7c76a58b8063ce939c0dc4bb2999861ac"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00431",
+   "short": "LC 431/2025",
+   "title": "Lei Complementar nº 431, de 7 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14185",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14185/lc_431_plc_0039-25.pdf",
+     "sha256": "a26820178d9e88d13702d790795f0d917d3ddf2323ae694cbe83e6555beab2f2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11541",
+   "short": "Lei 11541/2025",
+   "title": "Lei nº 11.541, de 2 de julho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14177",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 4,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14177/lei_11.641_-_plo_0290-23.pdf",
+     "sha256": "6dd2d14f78858ee3f799af04d8bda395e4a689721a2527f1d86832a126d70a29"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00430",
+   "short": "LC 430/2025",
+   "title": "Lei Complementar nº 430, de 18 de junho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14169",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 21,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14169/lc_430_plc_0030-25.pdf",
+     "sha256": "1ab8eb519641ce866190f7cb8abfe29af9bb37c58fa325d15af7f578bf6530ce"
+    }
+   ]
   }
  ]
 }
