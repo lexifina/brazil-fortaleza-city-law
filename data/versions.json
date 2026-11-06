@@ -1640,6 +1640,90 @@
      "sha256": "1ab8eb519641ce866190f7cb8abfe29af9bb37c58fa325d15af7f578bf6530ce"
     }
    ]
+  },
+  {
+   "slug": "lei-2025-11539",
+   "short": "Lei 11539/2025",
+   "title": "Lei nº 11.539, de 17 de junho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14171",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 11,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14171/lei_11.539_-_plo_0369-25.pdf",
+     "sha256": "f3a7b98da0a358731cb5f956bf82746e1fa68cd3507e32373abb49bd64ee0ccd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-11538",
+   "short": "Lei 11538/2025",
+   "title": "Lei nº 11.538, de 13 de junho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14170",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14170/lei_11.538_-_plo_0402-25.pdf",
+     "sha256": "e64885d3bcdd3c62b2be1bd263131f1a446c00f0e9533d979934b14462145324"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00429",
+   "short": "LC 429/2025",
+   "title": "Lei Complementar nº 429, de 13 de junho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14168",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14168/lc_429_plc_0034-25.pdf",
+     "sha256": "761210dc3eb59e7f780fd236f3b5f714d5e428d60c44ea841942cb9c3df8d72d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00428",
+   "short": "LC 428/2025",
+   "title": "Lei Complementar nº 428, de 12 de junho de 2025",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14167",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 12,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2025/14167/lc_428_plc_0032-25.pdf",
+     "sha256": "493d854123043abe4e81497e029f850adb46424c45b6ddd0cc15c6da406ca471"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-11512",
+   "short": "Lei 11512/2024",
+   "title": "Lei nº 11.512, de 26 de dezembro de 2024",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14080",
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2024/14080/lei_n._11.512_2024.pdf",
+     "sha256": "9f88e7962cd0be501d725b72caad5ef5ffc73745723e706b37a8c2833adb6856"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-11511",
+   "short": "Lei 11511/2024",
+   "title": "Lei nº 11.511, de 26 de dezembro de 2024",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/14079",
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "units": 6,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2024/14079/lei_n._11.511_2024.pdf",
+     "sha256": "ed0f87c21168021165a4b41f284a84395da8609570e2d6c3670e429561f6dcc4"
+    }
+   ]
   }
  ]
 }
