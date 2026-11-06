@@ -1724,6 +1724,48 @@
      "sha256": "ed0f87c21168021165a4b41f284a84395da8609570e2d6c3670e429561f6dcc4"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-11303",
+   "short": "Lei 11303/2022",
+   "title": "Lei nº 11.303, de 30 de setembro de 2022",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/13532",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2022/13532/lei_11.303.pdf",
+     "sha256": "2875f65f60ef8d34e793a1255ad8cdcf36f8b9f7456783120a5b50038c2e3132"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-11302",
+   "short": "Lei 11302/2022",
+   "title": "Lei nº 11.302, de 30 de setembro de 2022",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/13531",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2022/13531/lei_11.302.pdf",
+     "sha256": "3d9ba2e3ec3a79240f073e699e3ff7c80df7a8d41fb23c49323914ef1c7e1c29"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-11301",
+   "short": "Lei 11301/2022",
+   "title": "Lei nº 11.301, de 29 de setembro de 2022",
+   "url": "https://sapl.fortaleza.ce.leg.br/norma/13530",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 3,
+     "source_url": "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2022/13530/lei_11.301.pdf",
+     "sha256": "f0b569085faf2b32480f91ae601e82fc6512f79f3d53ce4eb61b0e0e0d9dd85b"
+    }
+   ]
   }
  ]
 }
